@@ -3,10 +3,23 @@
 /***************/
 
 /* Color Palette */
-
+.color-1 {
+    background: red }
+.color-2 {
+    background: blue }
+.color-3 {
+    background: silver }
 
 /* Textures or Patterns*/
-
+.pattern-1 {
+    background: url(http://www.themesltd.com/covers/galaxy_nebula_cat.png);
+}
+.pattern-2 {
+    background: url(https://d3ui957tjb5bqd.cloudfront.net/images/screenshots/products/4/46/46032/retro_car_pattern-o.jpg?1382419112);
+}
+.pattern-3 {
+    background: url(https://c1.staticflickr.com/5/4114/4787719071_0583986488_b.jpg);
+}
 
 /* Imagery */
 
